@@ -17,12 +17,11 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "image": "https://img.cybercook.com.br/receitas/52/risoto-de-camarao-com-limao-623x350.jpeg",
+      "name": "Risoto de Camarão",
+      "price": "29,90",
+      "description": " CyberCook Risoto de Camarão com Limão Siciliano",
+      "id": 3
     }
   ]
 }
